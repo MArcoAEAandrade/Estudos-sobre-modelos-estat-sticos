@@ -1,2 +1,15 @@
 # Estudos-sobre-modelos-estat-sticos
-Notebooks para fixação e entendimento de curso de probabilidade e estatística
+Discrete Probability Models
+
+Notebook de estudos sobre modelos estatísticos para variáveis discretas.
+
+Conteúdo
+Bernoulli
+Binomial (generalização de Bernoulli)
+Poisson (eventos raros)
+Geométrica (primeiro sucesso)
+Binomial Negativa (r-ésimo sucesso)
+Hipergeométrica
+Objetivo
+
+Consolidar conceitos fundamentais de probabilidade discreta com aplicações práticas e exercícios em Python.
